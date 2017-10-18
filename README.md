@@ -1,7 +1,7 @@
 # Server Side Programming
 
 
-PHP adalah suatu bahasa pemrograman yang termasuk dalam kategori server side programming. Server-side memiliki arti operasi yang dilakukan oleh server didalam sebuah  client-server. Server-side scripting adalah teknik yang digunakan dalam website dimana request user dijalankan dengan script langsung pada web server untuk menghasilkan halaman web yang dinamis.
+PHP adalah suatu bahasa pemrograman yang termasuk dalam kategori server side programming. Server-side memiliki arti operasi yang dilakukan oleh server didalam sebuah  client-server. Server-side scripting adalah teknik yang digunakan dalam website dimana request user dijalankan dengan script langsung pada web server untuk di proses di web engine.
 
 
 ### Contoh Teknologi Server Side Programming
